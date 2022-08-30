@@ -1,6 +1,5 @@
 
 # FastAPI
-![alt text](https://github.com/llraekll/FastAPI/blob/main/images/fastapi.png?raw=true)
 https://github.com/github/llraekll/blob/assets/fastapi.png 
 
 This project is built on FastAPI framework based on a social media platform performing actions such actions User and Post creation using Postgres database, user authentication using hashed passwords and issusing JWT tokens hosting on Heroku, setting up and deploying on a Virtual Machine, creating CI/CD pipeline with github jobs.
@@ -16,7 +15,7 @@ This project is built on FastAPI framework based on a social media platform perf
 
 
 ### Deploy on Heroku
-![alt text](https://github.com/llraekll/FastAPI/blob/main/images/Heroku.png?raw=true)
+https://github.com/github/llraekll/blob/assets/Heroku.png 
 * Create a Procfile mentioning your app’s web server
 * Create a requirements.txt file for Heroku to identify the language
 * Ensure there are no unused libraries mentioned in the source code
@@ -27,7 +26,7 @@ This project is built on FastAPI framework based on a social media platform perf
     git push heroku main
 ```
 
-![alt text](https://github.com/llraekll/FastAPI/blob/main/images/DigitalOcean.png?raw=true)
+https://github.com/github/llraekll/blob/assets/DigitalOcean.png 
 
 ### Deploy on Ubuntu VM
 * Create a droplet on digital ocean
@@ -42,4 +41,4 @@ This project is built on FastAPI framework based on a social media platform perf
 * Setup the database using postgres
 * Make a directory to clone your github repo
 * Link your domain to the IP address of your droplet
-![alt text](https://github.com/llraekll/FastAPI/blob/main/images/ubuntu.png?raw=true)
+https://github.com/github/llraekll/blob/assets/ubuntu.png 
