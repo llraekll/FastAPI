@@ -1,6 +1,6 @@
 
 # FastAPI
-https://github.com/github/llraekll/blob/assets/fastapi.png 
+![alt tag](https://github.com/github/llraekll/blob/assets/fastapi.png )
 
 This project is built on FastAPI framework based on a social media platform performing actions such actions User and Post creation using Postgres database, user authentication using hashed passwords and issusing JWT tokens hosting on Heroku, setting up and deploying on a Virtual Machine, creating CI/CD pipeline with github jobs.
 * User creation
